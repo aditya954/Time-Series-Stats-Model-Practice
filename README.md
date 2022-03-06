@@ -1,3 +1,3 @@
 # Time-Series-Stats-Model-Practice
-In this Notebook you have Model Such as Moving Average/Exponential Smoothing/Holts Winter are Compared 
-Maoving Average
+In this Notebook you have Models Moving Average/Exponential Smoothing/Holts Winter are there for the Time Series Data
+
